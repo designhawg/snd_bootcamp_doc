@@ -1,0 +1,285 @@
+.blackglow {
+  text-shadow: 2px 2px #ff0000;
+}
+
+#broken {
+  font-size: 12em;
+  line-height: .2em;
+  text-shadow: 0px 0px 0px #fff;
+  width: 1500px;
+  margin-left: -200px;
+}
+
+.fragment h2 {
+  color: white;
+  background-color: none;
+  text-shadow: 0px 0px 10px #000000;
+  text-align: left;
+  font-size: 3em;
+}
+
+.fragment h5 {
+  color: white;
+  background-color: none;
+  text-shadow: 0px 0px 10px #000000;
+  text-align: right;
+}
+
+.instructor h2{
+  color: black;
+  font-family: 'helvetica', sans-serif;
+  text-transform: capitalize;
+  letter-spacing: -.02em;
+  text-align: left;
+  text-shadow: none;
+}
+
+#lead-instructor {
+  padding-top: 250px;
+}
+
+.plain h1, .plain h2, .plain h3, .plain h4, .plain h5 {
+  color: white;
+  text-align: left;
+  font-family: 'helvetica', sans-serif;
+  line-height: .8em;
+  text-transform: lowercase;
+}
+
+.plain h2 {
+  font-size: 2.3em;
+  letter-spacing: -.02em;
+  line-height: 1em;
+  margin-top: -10px;
+}
+
+h2.goal {
+  font-size: 5em;
+  letter-spacing: -.03em;
+  margin-top: -50px;
+}
+
+h4.shim {
+  padding-left: 10px;
+}
+
+h2.fail {
+  font-size: 12em;
+  letter-spacing: -.06em;
+}
+
+h2.noshadow {
+  text-shadow: none;
+  margin-top: 10px;
+}
+
+h2.start {
+  text-align: right;
+  padding-top: 300px;
+  font-size: 3em;
+}
+
+.reveal section img {
+  border: none;
+}
+
+.books {
+  width: 200px;
+  display: block;
+  float: left;
+  height: 300px;
+}
+
+.books h3 {
+  font-size: .7em;
+  text-transform: capitalize;
+  line-height: 1em;
+  margin-left: 5px;
+}
+
+.books h5 {
+  font-size: .5em;
+  text-transform: uppercase;
+  margin-left: 5px;
+}
+
+#center h3 {text-align: center;}
+
+#override {
+  color: white;
+  background-color: none;
+  text-shadow: 0px 0px 10px #000000;
+  text-align: left;
+}
+
+#welcome {
+  font-family: "hellenic-wide", sans-serif;
+  text-shadow: none;
+  background-color: none;
+  letter-spacing: .05em;
+  font-size: 1.1em;
+}
+
+#hack {
+  font-family: "hellenic-wide", sans-serif;
+  text-shadow: none;
+  background-color: none;
+  letter-spacing: -.02em;
+  font-size: 4.2em;
+  margin-top: -25px;
+}
+
+#tucky {
+  font-family: "hellenic-wide", sans-serif;
+  text-shadow: none;
+  background-color: none;
+  letter-spacing: -.01em;
+  font-size: 3.5em;
+  margin-top: -40px;
+}
+
+#chords {
+  text-shadow: 0px 0px 10px #000000;
+  background-color: none;
+  font-size: 5em;
+  margin-top: -40px;
+  line-height: .8em;
+  padding-top: 200px;
+}
+
+#feeling {
+  font-family: "hellenic-wide", sans-serif;
+  text-shadow: none;
+  background-color: none;
+  letter-spacing: .05em;
+  font-size: .8em;
+  color: red;
+}
+
+#meet {
+  font-family: "hellenic-wide", sans-serif;
+  text-shadow: none;
+  background-color: #6D0700;
+  letter-spacing: .05em;
+  font-size: 1.1em;
+  padding: 20px;
+  margin-top: 50px;
+}
+
+#judge {
+  font-family: "hellenic-wide", sans-serif;
+  text-shadow: none;
+  background-color: #6D0700;
+  letter-spacing: -.01em;
+  font-size: 3.5em;
+  margin-top: -40px;
+  padding: 0 20px 20px 20px;
+}
+
+/*.teams {
+  float: left;
+  padding: 20px 10px 15px 30px;
+  text-align: left;
+}*/
+
+#pattie, #frank, #yuri, #michael, #larry {
+  margin: 20px 0 30px 0;
+  float: center;
+  text-align: center;
+  width: 95%;
+  padding: 20px 10px 15px 30px;
+  text-align: left;
+  background: rgba(200, 54, 54, 0.5);
+}
+
+#pattie:hover, #frank:hover, #yuri:hover, #michael:hover, #larry:hover {
+  background: rgba(200, 54, 54, .8);
+  color: white;
+}
+
+#pattie a, #frank a, #yuri a, #michael a, #larry a {
+  color: #dadada;
+}
+
+#shift-down {
+    padding-top: 200px;
+}
+
+#shift-down a {
+  text-shadow: 0px 0px 20px #000000;
+  color: #dadada;
+}
+
+#shift-down a:hover {
+  text-shadow: 0px 0px 20px #000000;
+  color: #087F06;
+}
+
+#overline {
+  border-top: 1px solid #fff;
+  padding-top: 20px;
+}
+
+/*.stuff {
+  width: 500px;
+  float: center;
+  margin: 0 auto;
+}*/
+
+#teamslides {
+  margin-top: 600px;
+  float: left;
+}
+
+#teamslides a {
+  text-transform: uppercase;
+  margin-top: 20px;
+  font-size: .5em;
+  background: rgba(8, 127, 6, 0.4);
+  padding: 10px;
+  color: #dadada;
+  letter-spacing: .1em;
+}
+
+#teamlink, #slides {
+    margin-right: 10px;
+    text-align: center;
+}
+
+#teamlink a, #slides a {
+  text-transform: uppercase;
+  margin-top: 20px;
+  font-size: .5em;
+  background: rgba(8, 127, 6, 0.4);
+  padding: 10px;
+  color: #dadada;
+  letter-spacing: .1em;
+}
+
+#slides a {
+  background: rgba(0,0,0, 0.4);
+}
+
+#teamlink a:hover, #slides a:hover, #teamslides a:hover {
+  background: rgba(8, 127, 6, 0.8);
+}
+
+#champ {
+  font-family: "hellenic-wide", sans-serif;
+  text-shadow: none;
+  background-color: none;
+  letter-spacing: -.01em;
+  font-size: 3em;
+  margin-top: -300px;
+}
+
+#next {
+  font-family: "hellenic-wide", sans-serif;
+  text-shadow: none;
+  background-color: none;
+  letter-spacing: -.01em;
+  font-size: 3em;
+  text-align: right;
+  margin-top: 350px;
+
+}
